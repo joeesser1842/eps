@@ -17,7 +17,10 @@ In Progress
 ## Project Overview
 This is the Electical Power System module of the inspireFly Cubesat.
 
+"inspireFly" is a student led Cubesat design team.
+
 The main goal of the Electrical Power System a.k.a. EPS, is to manage the cubesat's power intake, battery charge, and power usage to ensure the operation of the satellite.
+
 
 ## Educational Value Added
 This project will provide students the oppurtunity to learn about power supply design, such as how DC-DC converters work, how to charge batteries with solar panels, and how to test power systems.
